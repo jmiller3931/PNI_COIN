@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2019-02-07T20:25:52Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.3.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 0.77,
+        "LayerNumber": 4,
+        "Name": {
+            "ProjectId": "PNICoin"
+        },
+        "Owner": "Joe Miller <jmiller@pnicorp.com>",
+        "Size": {
+            "X": 30,
+            "Y": 30
+        }
+    }
+}
